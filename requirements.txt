@@ -1,5 +1,5 @@
 flask
-tensorflow==2.18.0
+--upgrade tensorflow
 matplotlib
 scikit-learn
 keras
