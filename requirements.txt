@@ -1,5 +1,5 @@
 flask
---upgrade tensorflow
+pip install --upgrade tensorflow
 matplotlib
 scikit-learn
 keras
